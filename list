@@ -22,6 +22,8 @@ a463.w10.akamai.net
 a790.w16.akamai.net
 aan.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
+aax-us-iad.amazon.com
+aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
 about.me
 about.medium.com
@@ -478,6 +480,7 @@ js.stripe.com
 jsdelivr.net
 keystone.mwbsys.com
 khanacademy.org
+kinesis.us-east-1.amazonaws.com
 kinja-debug.firebaseio.com
 kinja.com
 kqzyfj.com
