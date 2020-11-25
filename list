@@ -1,5 +1,3 @@
-#Combined multiple whitlists to get amazon and windows apps working with diversion standard blacklist.
-# Begin Unbreak whitelist.
 0-edge-chat.facebook.com
 0.client-channel.google.com
 1-edge-chat.facebook.com
